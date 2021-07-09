@@ -2,17 +2,17 @@ import React from "react";
 import Footer from "../../Components/Footer/Index";
 import Header from "./../../Components/Header/Index";
 import BlogCard from "./../../Components/BlogCard/Index"
-import "./style.scss";
+import "./style.css";
 import RocketImgAnimation from "../../Components/RocketImgAnimation/Index"
 const HomePage = () => {
   return (
     <>
       <Header />
-      <img className="centerimage" />
+      <div className="centerimage" />
       <div className="imagesstrip">
-        <img className="sectionimage" id="image_3" />
-        <img className="sectionimage" id="image_4" />
-        <img className="sectionimage" id="image_5" />
+        <div className="sectionimage" id="image_3" />
+        <div className="sectionimage" id="image_4" />
+        <div className="sectionimage" id="image_5" />
       </div>
       <div className="animations" />
       <iframe

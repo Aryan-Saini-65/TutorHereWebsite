@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Spring } from "react-spring";
-import "./style.scss";
+import "./style.css";
 class RocketImgAnimation extends Component {
   render() {
     return (

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.maindiv1
+{
+    width: 234px;
+    height: auto;
+}
+.imagediv
+{
+    background-image: url('../../../Data/amalalex.png');
+    width: 234px;
+    height: 234px;
+    background-repeat: no-repeat;
+    background-repeat: round;
+}
+
+.name
+{
+    font-family: 'Poppins', sans-serif;
+    color: #1D4A99;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.designation
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #838383;
+    font-size: 12px;
+    margin-top: 2px;
+    text-align: center;
+}
+
+.email
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #838383;
+    font-size: 8px;
+    margin-top: 2px;
+    text-align: center;
+}
+
+.modalclass
+{
+    width:50%;
+    border: none;
+    padding: 4px;
+    text-align: center;
+    margin-top: 2px;
+    display: flex;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}

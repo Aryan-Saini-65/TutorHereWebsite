@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
+.imagelogo_1
+{
+    height: 633px;
+    width: 100%;
+    background-repeat: round;
+    background-image: url("./../../Data/AboutUsSectionimage_2.jpg");
+}
+
+.videoTag
+{
+    height: 599px;
+    position: relative;
+    width: 100%;
+    object-fit: cover;
+}
+
+.maindiv
+{
+    width: 100%;
+}
+
+.cards
+{
+    height: 350px;
+    width: 350px;
+    background-repeat: round;
+    background-image: url("./../../Data/dummy_image.png");
+    margin: 10px auto auto auto;
+}
+
+.section_heading
+{
+    margin: 20px auto auto auto;
+    font-size: 50px;
+    font-family: 'Dosis', sans-serif;
+    color: #0866E4;
+    text-align: center;
+    word-break: break-word;
+}
+
+.section_content
+{
+    text-align: center;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: 400;
+    color: darkslategrey;
+}
+

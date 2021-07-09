@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.BlogStrip
+{
+width: 1110px;
+margin-right: auto;
+margin-left: auto;
+display: flex;
+justify-content: space-between;
+}
+
+.BlogStrip>div{
+    width: 356.66px;
+    height: 250px;
+    background-color: khaki;
+    
+}
+
+.blog1image
+{
+    height: 230px;
+    width: 356.66px;
+    background-image: url(../../Data/blog_image_1.jpeg);
+    background-repeat: round;
+    
+}
+
+.blog2image
+{
+    height: 230px;
+    width: 356.66px;
+    background-image: url(../../Data/blog_image_2.jpeg);
+    background-repeat: round;
+}
+
+.blog3image
+{
+    height: 230px;
+    width: 356.66px;
+    background-image: url(../../Data/blog_image_3.jpeg);
+    background-repeat: round;
+}
